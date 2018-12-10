@@ -1,3 +1,6 @@
+# Pocket
+Pocket forked the library to create a pod with the latest changes from the develop branch since this library is a dependency of the Pocket IOS SDK, this will help us to add the forked library to the podspec of the SDK and this dependency will be installed automatically.
+
 # SwiftKeychainWrapper
 
 A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift.
