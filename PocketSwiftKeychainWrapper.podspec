@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.authors = { 'Luis C. de Leon' => 'luis@pokt.network', 'Pabel Nunez L.' => 'pabel@pokt.network' }
   s.ios.deployment_target = '8.0'
-  s.source = { :git => 'git@github.com:pokt-network/SwiftKeychainWrapper.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/pokt-network/SwiftKeychainWrapper.git', :tag => s.version }
   s.source_files = 'SwiftKeychainWrapper/*.{h,swift}'
 end
